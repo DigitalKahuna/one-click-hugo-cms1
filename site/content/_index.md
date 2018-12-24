@@ -1,10 +1,10 @@
 ---
 title: LBFRmikey
 subtitle: 'LOST BANDITS FORGOTTEN ROYALTIES '
-image: /img/48385652_575722152874523_3335742378286776320_n.jpg
+image: /img/48392289_300231470625172_5213624405061533696_n.jpg
 blurb:
-  heading: Why mikey?
-  text: LBFRmikey ....I rap & shit...
+  heading: yung bandit boy.
+  text: LBFRmikey is an Wellington based vocalist and songwriter.
 intro:
   heading: What we offer
   text: >-
