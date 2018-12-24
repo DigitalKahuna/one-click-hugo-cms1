@@ -4,7 +4,7 @@ subtitle: 'LOST BANDITS FORGOTTEN ROYALTIES '
 image: /img/lbfr.jpg
 blurb:
   heading: Why mikey?
-  text: LBFRmikey dropping tunes all over the world....
+  text: LBFRmikey ....I rap & shit.
 intro:
   heading: What we offer
   text: >-
