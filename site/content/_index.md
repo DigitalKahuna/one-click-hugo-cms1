@@ -1,7 +1,7 @@
 ---
 title: LBFRmikey
 subtitle: 'LOST BANDITS FORGOTTEN ROYALTIES '
-image: /img/home-jumbotron.jpg
+image: /img/lbfr.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
