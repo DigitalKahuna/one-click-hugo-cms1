@@ -1,7 +1,7 @@
 ---
 title: LBFRmikey
 subtitle: 'LOST BANDITS FORGOTTEN ROYALTIES '
-image: /img/lbfr.jpg
+image: /img/48385652_575722152874523_3335742378286776320_n.jpg
 blurb:
   heading: Why mikey?
   text: LBFRmikey ....I rap & shit...
